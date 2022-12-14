@@ -9,7 +9,7 @@ namespace Rockets
 {
     class Calculator
     {
-        public const double R = 600000.0; // Радиус Земли
+        public const double R = 6371000.0; // Радиус Земли
         public StageOne stageOne = new StageOne();
         public StageTwo stageTwo = new StageTwo();
         public Calculator()
@@ -32,9 +32,6 @@ namespace Rockets
                 yAxisValues.AddRange(stageTwo.Move_YValues);
 
                 yAxisValues = curve(yAxisValues, xAxisValues);
-
-                Console.WriteLine("Высота орбиты с поправкой кривизны Земли: = " +
-                    String.Format("{0:0.######}", yAxisValues[stageOne.Move_XValues.Count() - 1]) + " м");
 
                 Console.WriteLine("Высота орбиты с поправкой кривизны Земли: = " + 
                     String.Format("{0:0.######}", yAxisValues[yAxisValues.Count() - 1]) + " м");

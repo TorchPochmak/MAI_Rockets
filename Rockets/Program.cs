@@ -30,7 +30,7 @@ namespace Rockets
         protected double Calculate_GValues(double yarg, double xarg)
         {
             yarg += Calculator.R / (Math.Cos(Math.Atan(xarg / Calculator.R)));
-            double res = 6.67 * 5.3 * 1e11 / Math.Pow(yarg, 2.0);
+            double res = 6.67 * 6 * 1e13 / Math.Pow(yarg, 2.0);
             return res;
         }
         protected double GetAngleFunction()// рад/с
