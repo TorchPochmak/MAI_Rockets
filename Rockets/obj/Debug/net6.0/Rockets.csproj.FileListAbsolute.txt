@@ -1,0 +1,15 @@
+C:\Users\Никита\source\repos\Rockets\Rockets\bin\Debug\net6.0\Rockets.exe
+C:\Users\Никита\source\repos\Rockets\Rockets\bin\Debug\net6.0\Rockets.deps.json
+C:\Users\Никита\source\repos\Rockets\Rockets\bin\Debug\net6.0\Rockets.runtimeconfig.json
+C:\Users\Никита\source\repos\Rockets\Rockets\bin\Debug\net6.0\Rockets.dll
+C:\Users\Никита\source\repos\Rockets\Rockets\bin\Debug\net6.0\Rockets.pdb
+C:\Users\Никита\source\repos\Rockets\Rockets\obj\Debug\net6.0\Rockets.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\Rockets\Rockets\obj\Debug\net6.0\Rockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\Rockets\Rockets\obj\Debug\net6.0\Rockets.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\Rockets\Rockets\obj\Debug\net6.0\Rockets.AssemblyInfo.cs
+C:\Users\Никита\source\repos\Rockets\Rockets\obj\Debug\net6.0\Rockets.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Rockets\Rockets\obj\Debug\net6.0\Rockets.dll
+C:\Users\Никита\source\repos\Rockets\Rockets\obj\Debug\net6.0\refint\Rockets.dll
+C:\Users\Никита\source\repos\Rockets\Rockets\obj\Debug\net6.0\Rockets.pdb
+C:\Users\Никита\source\repos\Rockets\Rockets\obj\Debug\net6.0\Rockets.genruntimeconfig.cache
+C:\Users\Никита\source\repos\Rockets\Rockets\obj\Debug\net6.0\ref\Rockets.dll
